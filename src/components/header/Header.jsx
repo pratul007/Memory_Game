@@ -10,4 +10,5 @@ const Header = ({ restartGame }) => (
   </div>
 );
 
+
 export default Header;

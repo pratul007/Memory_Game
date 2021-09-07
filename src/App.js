@@ -6,12 +6,6 @@ import GameOver from './components/card/GameOver';
 import './styles/main.css';
 
 class App extends Component {
-  // constructor() {
-  //   super();
-  //   this.state = {
-  //     count: 0,
-  //   }
-  // }
 
   state = { 
     isFlipped: Array(16).fill(false),
