@@ -7,5 +7,4 @@ const GameOver = ({ restartGame }) => (
   </div>
 );
 
-
 export default GameOver;
